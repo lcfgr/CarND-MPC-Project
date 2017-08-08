@@ -3,7 +3,7 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
- #The model
+ # The model
 
 ---
 
@@ -47,7 +47,7 @@ acceleration rate coefficient: w_accel_diff = 200.0
 
 As you can see, I emphasised the coefficients that are related with sudden changes (derivatives), which would normally be more unacceptable. The CTE error, the speed and the steering angle are not so important therefore are not so intensively penalized. the result is very good and the car reaches easily approximately **83mph** without stepping on the outer limits of the track.  
 
-###Polynomial Fitting and MPC Preprocessing
+### Polynomial Fitting and MPC Preprocessing
 I chose A 3rd degree polynomial to smooth out the desired trajectory and had adequate enough, without increasing significantly the calculation load.  
 It is also important to preprocess the waypoints since all the calculation are done easier into car-oriented coordinates.
 Therefore all the waypoints are translated in relation to the car positioning and orientation.
