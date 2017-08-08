@@ -1,0 +1,3 @@
+/media/lampros/DATA/CarND/CarND-MPC-Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/lampros/DATA/CarND/CarND-MPC-Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/lampros/DATA/CarND/CarND-MPC-Project/cmake-build-debug/CMakeFiles/mpc.dir

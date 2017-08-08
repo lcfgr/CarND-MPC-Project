@@ -1,0 +1,4 @@
+/home/lampros/clion-2017.1.3/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /media/lampros/DATA/CarND/CarND-MPC-Project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /media/lampros/DATA/CarND/CarND-MPC-Project/cmake-build-debug
